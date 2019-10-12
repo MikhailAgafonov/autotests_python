@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b10a43f5-822a-4e7b-be2e-e3b0ffca3ab2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_expected_conditions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/registration.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,13 +11,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="autotests_python" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_expected_conditions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="433">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -27,9 +29,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_abs_project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registration.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/registration_unittest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="848">
+              <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_window.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="599">
               <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="18" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -44,6 +79,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -63,10 +99,14 @@
         <option value="$PROJECT_DIR$/new_window.py" />
         <option value="$PROJECT_DIR$/test_waiting.py" />
         <option value="$PROJECT_DIR$/test_expected_conditions.py" />
+        <option value="$PROJECT_DIR$/test_abs_project.py" />
+        <option value="$PROJECT_DIR$/registration.py" />
+        <option value="$PROJECT_DIR$/123.py" />
+        <option value="$PROJECT_DIR$/registration_unittest.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="604" />
     <option name="width" value="1283" />
     <option name="height" value="1047" />
@@ -106,68 +146,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_expected_conditions.py">
-    <configuration name="Download_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.pytest in registration_unittest.py">
+    <configuration name="pytest for registration.Registration" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="autotests_education" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Download_files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;registration.Registration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="alert_moves" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in registration.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="autotests_education" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alert_moves.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/registration.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="new_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in registration_unittest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="autotests_education" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_window.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/registration_unittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_abs_project.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotests_education" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_abs_project.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in test_expected_conditions.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -185,28 +222,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_waiting.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="autotests_education" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_waiting.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in registration_unittest.py" />
+        <item itemvalue="Python tests.pytest in registration.py" />
+        <item itemvalue="Python tests.pytest for registration.Registration" />
+        <item itemvalue="Python tests.pytest in test_abs_project.py" />
         <item itemvalue="Python tests.pytest in test_expected_conditions.py" />
-        <item itemvalue="Python tests.pytest in test_waiting.py" />
-        <item itemvalue="Python.new_window" />
-        <item itemvalue="Python.alert_moves" />
-        <item itemvalue="Python.Download_files" />
       </list>
     </recent_temporary>
   </component>
@@ -224,55 +246,63 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 09h 45m 06s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_py - 2019.10.12 at 11h 57m 03s.xml">
+      <configuration name="pytest in registration.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 09h 45m 54s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_py - 2019.10.12 at 11h 57m 58s.xml">
+      <configuration name="pytest in registration.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 09h 51m 09s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_py - 2019.10.12 at 11h 58m 28s.xml">
+      <configuration name="pytest in registration.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 09h 53m 35s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_unittest_py - 2019.10.12 at 11h 59m 45s.xml">
+      <configuration name="pytest in registration_unittest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 09h 54m 22s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_unittest_py - 2019.10.12 at 12h 02m 11s.xml">
+      <configuration name="pytest in registration_unittest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 10h 03m 39s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_unittest_py - 2019.10.12 at 12h 11m 53s.xml">
+      <configuration name="pytest in registration_unittest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 10h 04m 03s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_unittest_py - 2019.10.12 at 12h 15m 37s.xml">
+      <configuration name="pytest in registration_unittest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 10h 04m 47s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_unittest_py - 2019.10.12 at 12h 19m 05s.xml">
+      <configuration name="pytest in registration_unittest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 10h 05m 11s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_unittest_py - 2019.10.12 at 12h 22m 24s.xml">
+      <configuration name="pytest in registration_unittest.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_expected_conditions_py - 2019.10.07 at 10h 06m 25s.xml">
-      <configuration name="pytest in test_expected_conditions.py" configurationId="tests" />
+    <history-entry file="pytest_in_registration_unittest_py - 2019.10.12 at 13h 39m 17s.xml">
+      <configuration name="pytest in registration_unittest.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="604" y="0" width="1283" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.38072288" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info id="Favorites" order="0" sideWeight="0.5016129" side_tool="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4983871" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="2" sideWeight="0.5016129" side_tool="true" weight="0.24973656" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50052685" side_tool="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.32936078" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32932165" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49947312" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -306,16 +336,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-start-line="8" selection-end-line="14" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -375,7 +395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/new_window.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="599">
           <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="18" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -385,10 +405,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_expected_conditions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="433">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_abs_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration_unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
