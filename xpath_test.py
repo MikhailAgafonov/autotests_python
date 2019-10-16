@@ -23,5 +23,3 @@ http://suninjuly.github.io/cats.html
 
 # Запросы регистро-зависимые. При такой попытке мы ничего не найдем
 //div/*[@class="Jumbotron-heading"]
-
-
